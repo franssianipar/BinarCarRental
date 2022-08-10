@@ -1,0 +1,12 @@
+
+.img-area img{
+    width: 480px;
+    margin-left: 188px;
+}
+@media only screen and (max-width:768px){
+    .img-area img{
+        width: 391px;
+        margin-left: 80px;
+    }
+}
+

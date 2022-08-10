@@ -1,0 +1,10 @@
+.img-area img{
+    width: 500px;
+    margin-left: 167px;
+}
+@media only screen and (max-width:768px){
+    .img-area img{
+        width: 391px;
+        margin-left: 80px;
+    }
+}
